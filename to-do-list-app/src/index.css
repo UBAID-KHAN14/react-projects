@@ -1,0 +1,186 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 22px;
+}
+
+body {
+  min-height: 100vh;
+  font-family: 'Poppins', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 
+    'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  width: 90%;
+  max-width: 500px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  margin: auto;
+  overflow: hidden;
+}
+
+h1{
+  color: #2575fc;
+}
+
+header {
+  width: 100%;
+  padding: 1rem;
+  background: mediumblue;
+  color: white;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+footer {
+  width: 100%;
+  padding: 1rem;
+  background: mediumblue;
+  color: white;
+  text-align: center;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+footer p a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  background-color: #2575fc;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #6a11cb;
+}
+
+ul {
+  width: 100%;
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  padding: 0.75rem;
+  margin: 0.5rem 0;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.item:hover {
+  transform: scale(1.02);
+}
+
+.item input[type="checkbox"] {
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  margin-right: 1rem;
+}
+
+.item label {
+  font-size: 1rem;
+  flex-grow: 1;
+}
+
+.item svg {
+  width: 32px;
+  height: 32px;
+  color: steelblue;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.item svg:hover {
+  color: red;
+}
+
+.addForm, .searchForm {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem;
+  border-bottom: 2px solid #eee;
+}
+.addForm label {
+  position: absolute;
+  left: -99999px;
+}
+
+.addForm input[type='text'], 
+.searchForm input[type='text'] {
+  flex-grow: 1;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  transition: border 0.3s ease;
+}
+
+.addForm input[type='text']:focus, 
+.searchForm input[type='text']:focus {
+  border-color: #2575fc;
+  outline: none;
+}
+
+.addButton {
+  height: 48px;
+  min-width: 48px;
+  border-radius: 6px;
+  font-size: 1rem;
+  background-color: #2575fc;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.addButton:hover {
+  background: limegreen;
+}
+.searchForm label {
+  position: absolute;
+  left: -99999px;
+}
