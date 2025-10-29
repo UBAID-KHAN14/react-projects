@@ -41,7 +41,7 @@ A minimal and efficient task management app to organize your day.
 - Simple and responsive design  
 
 🖼️ Screenshot Preview:
-![Todo App Screenshot](https://via.placeholder.com/800x400?text=Todo+List+App+Preview)
+![Todo App Screenshot](./images/to-do-list-preiview.png)
 
 🔗 **Live Demo:** *Coming soon!*  
 🔗 **Source:** [todo-list-app/](./todo-list-app)
