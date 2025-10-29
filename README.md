@@ -52,9 +52,9 @@ A minimal and efficient task management app to organize your day.
 
 | Project | Description | Status |
 |----------|--------------|--------|
-| 🌐 **Portfolio Website** | Personal website showcasing projects | 🛠️ In Progress |
-| 📊 **Expense Tracker** | Manage and visualize daily expenses | 🗓️ Planned |
-| 🧠 **Quiz App** | Fun and interactive learning quizzes | 🗓️ Planned |
+| 🍔 **Food Recipe App** | Explore and search for delicious recipes with images and ingredients | 🛠️ In Progress |
+| 🖼️ **Pixabay Clone** | A React-based image gallery app using the Pixabay API | 🗓️ Planned |
+
 
 ---
 
