@@ -25,7 +25,7 @@ A clean and responsive movie listing app with dynamic filtering by category (Act
 - Styled with Bootstrap and custom CSS animations  
 
 🖼️ Screenshot Preview:
-![Movies Zone Screenshot](https://via.placeholder.com/800x400?text=Movies+Zone+App+Preview)
+![Movies Zone Screenshot](./images/movies-zone-preview.png)
 
 🔗 **Live Demo:** *Coming soon!*  
 🔗 **Source:** [movies-zone/](./movies-zone)
