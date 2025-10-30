@@ -1,16 +1,28 @@
-# React + Vite
+🍽️ Food Meals Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React.js project that displays dynamic food data fetched from the TheMealDB API
+.
+Users can explore meals by country (like Canadian, Indian, British, Russian) and also search for any dish using a search bar.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔄 Dynamic API Data — Fetches real-time meal data from TheMealDB API
+.
 
-## React Compiler
+🌍 Filter by Country — Click country buttons (e.g., Canadian, Indian, British, Russian) to display meals from that region.
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+🔎 Search Functionality — Instantly search meals by name.
 
-## Expanding the ESLint configuration
+🖼️ Responsive Design — Fully responsive UI for all devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ React Hooks — Built using useState and useEffect for data fetching and state management.
+
+🧰 Technologies Used
+
+React.js (Vite or CRA)
+
+JavaScript (ES6+)
+
+CSS / Tailwind / Bootstrap (any styling method you used)
+
+TheMealDB API
