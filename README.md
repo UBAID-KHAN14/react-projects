@@ -60,7 +60,9 @@ A minimal and efficient task management app to organize your day.
 
 ---
 
-## 💻 How to Run Locally For Just TO-Do-List App
+## 🚀 Getting Started
+
+## 💻 How to Run Locally For Just TO-DO-List App
 
 ```bash
 # Navigate to the project
