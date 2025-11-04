@@ -9,7 +9,7 @@
 
 ## 🌐 Live Demo
 
-🚀 [**View Live Project**](https://your-live-demo-link.vercel.app/)  
+🚀 [**View Live Project**](https://react-projects-sepia-five.vercel.app/)  
 _(Replace with your deployed link, e.g. Vercel or Netlify)_
 
 ---
