@@ -52,7 +52,7 @@ A minimal and efficient task management app to organize your day.
 
 | Project | Description | Status |
 |----------|--------------|--------|
-| 🍔 **Food Recipe App** | Explore and search for delicious recipes with images and ingredients | 🛠️ In Progress |
+| 🍔 **Food Recipe App** | Explore and search for delicious recipes with images and ingredients | ✅ Completed|
 | 🖼️ **Pixabay Clone** | A React-based image gallery app using the Pixabay API | 🗓️ Planned |
 
 
