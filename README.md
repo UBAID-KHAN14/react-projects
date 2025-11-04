@@ -24,9 +24,6 @@ A clean and responsive movie listing app with dynamic filtering by category (Act
 - **Dynamic category filter** using `useState` and `.filter()`
 - Styled with Bootstrap and custom CSS animations  
 
-🖼️ Screenshot Preview:
-![Movies Zone Screenshot](./images/movies-zone-preview.png)
-
 🔗 **Live Demo:** *Coming soon!*  
 🔗 **Source:** [movies-zone/](./movies-zone)
 
@@ -40,8 +37,6 @@ A minimal and efficient task management app to organize your day.
 - Stores data locally in browser storage
 - Simple and responsive design  
 
-🖼️ Screenshot Preview:
-![Todo App Screenshot](./images/to-do-list-preiview.png)
 
 🔗 **Live Demo:** *Coming soon!*  
 🔗 **Source:** [todo-list-app/](./todo-list-app)
@@ -53,7 +48,7 @@ A minimal and efficient task management app to organize your day.
 | Project | Description | Status |
 |----------|--------------|--------|
 | 🍔 **Food Recipe App** | Explore and search for delicious recipes with images and ingredients | ✅ Completed|
-| 🖼️ **Pixabay Clone** | A React-based image gallery app using the Pixabay API | 🗓️ Planned |
+| 🖼️ **Pixabay Clone** | A React-based image gallery app using the Pixabay API | ✅ Completed |
 
 
 ---
