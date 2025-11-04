@@ -30,7 +30,7 @@ _(Replace with your deployed link, e.g. Vercel or Netlify)_
 ## 🖥️ Preview
 
 <p align="center">
-  <img src="../images/pixabay-preview.png" width="600" alt="Pixabay Clone Preview">
+  <img src="https://github.com/UBAID-KHAN14/react-projects/blob/main/images/pixabay-clone.png" width="600" alt="Pixabay Clone Preview">
 </p>
 
 ---
