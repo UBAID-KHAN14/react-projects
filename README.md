@@ -60,6 +60,18 @@ A minimal and efficient task management app to organize your day.
 
 ---
 
+## 💻 How to Run Locally For Just TO-Do-List App
+
+```bash
+# Navigate to the project
+cd react-projects/todo-list
+
+# Install dependencies
+npm install
+
+# Run the app
+npm start
+
 ## 💻 How to Run Locally
 
 ```bash
